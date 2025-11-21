@@ -1,5 +1,3 @@
-# Welcome to StackEdit!
-
 # 🏘️ Hltn - Hyper-Local Trust Network
 
 ## _Building Trust, One Neighborhood at a Time_
